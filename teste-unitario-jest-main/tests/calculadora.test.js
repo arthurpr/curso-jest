@@ -22,7 +22,7 @@ describe("Calculadora Teste", () => {
     
     });
     
-    test('A divisao de 10 e 2 deve ser igual a 5', () => {
+    test('AA divisao de 10 e 2 deve ser igual a 5', () => {
         var result = calculadora.divi(10,2)
         expect(result).toBe(5);
     
